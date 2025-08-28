@@ -16,8 +16,8 @@ The design uses warm brown and cream tones to reflect the cozy vibes of a real c
 ---
 
 ## 📸 Preview
-![Coffee Shop Screenshot](<img width="1910" height="840" alt="image" src="https://github.com/user-attachments/assets/5a1310de-8107-47c4-9276-fd71b8e427ea" />
-)
+![Coffee Shop Screenshot]<img width="1910" height="840" alt="image" src="https://github.com/user-attachments/assets/5a1310de-8107-47c4-9276-fd71b8e427ea" />
+
 
 ---
 
